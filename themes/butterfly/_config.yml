@@ -302,7 +302,7 @@ livere:
 gitalk:
   client_id: ce395aa4418984060f06
   client_secret: 7e809840b0a9d72f99c2c011d473a4ca71da249e
-  repo: https://github.com/Joker-boob/Blog.git
+  repo: Blog
   owner: Joker-boob
   admin: Joker-boob
   option:
