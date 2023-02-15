@@ -1,0 +1,8 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: Joker小站
+      link: https://jokerm.netlify.app/
+      avatar: https://jokerm.netlify.app/img/favicon.png
+      descr: 很神秘，什么都没有留下

@@ -1,5 +1,5 @@
 ---
-title: link
-date: 2023-02-14 16:19:23
-type: link
+title: 友情链接
+date: 2018-06-07 22:17:49
+type: "link"
 ---
