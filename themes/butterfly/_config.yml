@@ -7,7 +7,7 @@ menu:
   归档: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
-  友链: /link/ || fas fa-link
+  # 友链: /link/ || fas fa-link
   图库: /gallery/ || fas fa-images
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
@@ -882,6 +882,7 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
     # - <link rel="stylesheet" href="/css/xxx.css">
+    - <meta name="baidu-site-verification" content="codeva-nQrVyEdzRe" />
   bottom:
     # - <script src="xxxx"></script>
     - <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
